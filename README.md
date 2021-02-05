@@ -5,7 +5,7 @@ Prerequisite: Java8, Gradle 5+
 
 Follow below steps to start the service
 
-1) $ git clone https://github.com/rameez4ever/springboot-demo.git
+1) $ git clone https://github.com/rameez4ever/SpringBoot-Gradle-Multimodule.git
 2) $ cd Springboot-Gradle-Multimodule
 2) $ gradlew clean build
 3) $ gradlew bootRun
